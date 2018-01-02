@@ -1,0 +1,238 @@
+1512375009259	geckodriver	INFO	geckodriver 0.19.1
+1512375009279	geckodriver	INFO	Listening on 127.0.0.1:15302
+1512375011415	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wYaFWsjLEuAG"
+1512375013466	Marionette	INFO	Enabled via --marionette
+[Child 16912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512375015556	Marionette	INFO	Listening on port 15309
+1512375015608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512375015676	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 18656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 18836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+12375202112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/login.do"
+1512375202173	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/login.do"
+[Child 16760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512375298271	geckodriver	INFO	geckodriver 0.19.1
+1512375298286	geckodriver	INFO	Listening on 127.0.0.1:15640
+1512375300322	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1eoMGcVzwTdo"
+1512375301267	Marionette	INFO	Enabled via --marionette
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512375303133	Marionette	INFO	Listening on port 15647
+1512375303479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512375303571	Marionette	DEBUG	Register listener.js for window 4294967297
+1512375303693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512375303779	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512375303779	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512375304026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/login.do"
+1512375304115	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/login.do"
+1512375304520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 20132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512375330143	geckodriver	INFO	geckodriver 0.19.1
+1512375330153	geckodriver	INFO	Listening on 127.0.0.1:15711
+1512375332222	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.p7RM7WpK1utM"
+1512375333095	Marionette	INFO	Enabled via --marionette
+1512375334929	Marionette	INFO	Listening on port 15719
+1512375335359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512375335434	Marionette	DEBUG	Register listener.js for window 4294967297
+1512375335555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512375335640	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512375335640	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512375335911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/login.do"
+1512375335994	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/login.do"
+1512375336391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 19032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512375408561	geckodriver	INFO	geckodriver 0.19.1
+1512375408576	geckodriver	INFO	Listening on 127.0.0.1:15791
+1512375410621	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GaZDVWvT8Z6L"
+1512375411247	Marionette	INFO	Enabled via --marionette
+1512375412929	Marionette	INFO	Listening on port 15797
+1512375413757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512375413836	Marionette	DEBUG	Register listener.js for window 4294967297
+1512375413935	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512375414004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512375414005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512375414257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/login.do"
+1512375414461	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/login.do"
+1512375414728	Marionette	DEBUG	Received DOM event "beforeunload" for "http://h.51towin.com/contentRoot/login.do"
+1512375414777	Marionette	DEBUG	Received DOM event "pagehide" for "http://h.51towin.com/contentRoot/login.do"
+1512375414778	Marionette	DEBUG	Received DOM event "unload" for "http://h.51towin.com/contentRoot/login.do"
+1512375414786	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/"
+1512375414789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/"
+1512375414796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512375415083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/index.do"
+1512375415090	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/index.do"
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t:blank"
+1512375703359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512375703359	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512375703688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/login.do"
+1512375703781	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/login.do"
+1512375704059	Marionette	DEBUG	Received DOM event "beforeunload" for "http://h.51towin.com/contentRoot/login.do"
+1512375704113	Marionette	DEBUG	Received DOM event "pagehide" for "http://h.51towin.com/contentRoot/login.do"
+1512375704114	Marionette	DEBUG	Received DOM event "unload" for "http://h.51towin.com/contentRoot/login.do"
+1512375704133	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/"
+1512375704140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/"
+1512375704141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512375704437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/contentRoot/index.do"
+1512375704441	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/contentRoot/index.do"
+1512375704726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512375704750	Marionette	DEBUG	Received DOM event "beforeunload" for "http://h.51towin.com/contentRoot/index.do"
+1512375704833	Marionette	DEBUG	Received DOM event "pagehide" for "http://h.51towin.com/contentRoot/index.do"
+1512375704835	Marionette	DEBUG	Received DOM event "unload" for "http://h.51towin.com/contentRoot/index.do"
+1512375705037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/core/product.toSingleProductList.do"
+1512375705065	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/core/product.toSingleProductList.do"
+1512375705149	Marionette	DEBUG	Received DOM event "beforeunload" for "http://h.51towin.com/core/product.toSingleProductList.do"
+1512375705207	Marionette	DEBUG	Received DOM event "pagehide" for "http://h.51towin.com/core/product.toSingleProductList.do"
+1512375705207	Marionette	DEBUG	Received DOM event "unload" for "http://h.51towin.com/core/product.toSingleProductList.do"
+1512375705424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://h.51towin.com/core/product.toAddSingleProduct.do"
+1512375705442	Marionette	DEBUG	Received DOM event "pageshow" for "http://h.51towin.com/core/product.toAddSingleProduct.do"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+[Child 18800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512376023421	geckodriver	INFO	geckodriver 0.19.1
+1512376023436	geckodriver	INFO	Listening on 127.0.0.1:16435
+1512376025498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JDw2jcfqbIBS"
+1512376028216	Marionette	INFO	Listening on port 16441
+1512376028677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512376143881	Marionette	INFO	Ceased listening
+1512376144944	geckodriver	INFO	geckodriver 0.19.1
+1512376144954	geckodriver	INFO	Listening on 127.0.0.1:16485
+1512376146998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j9wwQ5mS4yeK"
+1512376148998	Marionette	INFO	Listening on port 16491
+1512376149098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512376158515	Marionette	INFO	Ceased listening
+1512376159648	geckodriver	INFO	geckodriver 0.19.1
+1512376159663	geckodriver	INFO	Listening on 127.0.0.1:16517
+1512376161721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Z6tdg9dRy0X4"
+1512376163824	Marionette	INFO	Listening on port 16523
+1512376164844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512376188204	Marionette	INFO	Ceased listening
+1512376189947	geckodriver	INFO	geckodriver 0.19.1
+1512376189962	geckodriver	INFO	Listening on 127.0.0.1:16584
+1512376192022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kQLUG6T598xk"
+1512376194318	Marionette	INFO	Listening on port 16590
+1512376195172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512376200938	Marionette	INFO	Ceased listening
+1512377537307	geckodriver	INFO	geckodriver 0.19.1
+1512377537327	geckodriver	INFO	Listening on 127.0.0.1:17809
+1512378021534	geckodriver	INFO	geckodriver 0.19.1
+1512378021579	geckodriver	INFO	Listening on 127.0.0.1:18535
+1512378023615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1CM96q5s9Whz"
+1512378027897	Marionette	INFO	Listening on port 2828
+[GPU 3972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512378087313	geckodriver	INFO	geckodriver 0.19.1
+1512378087328	geckodriver	INFO	Listening on 127.0.0.1:18597
+1512378089373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3endqG5ph8zV"
+1512378091951	Marionette	INFO	Listening on port 2828
+[GPU 20884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512378155027	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 20884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTra[GPU 20796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ssages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1512378237798	geckodriver	INFO	geckodriver 0.19.1
+1512378237820	geckodriver	INFO	Listening on 127.0.0.1:18822
+1512378239877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EyhwtY8AxrIC"
+1512378244134	Marionette	INFO	Listening on port 2828
+[GPU 21460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 21460] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

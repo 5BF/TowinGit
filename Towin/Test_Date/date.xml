@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+    <URL>
+        <url>http://h.51towin.com/contentRoot/login.do</url>
+        <twurl>http://admin.51towin.com/core/login.logout.do</twurl>
+    </URL>
+
+
+    <HSPT_login>
+        <username>csppeh01555</username>
+        <password>123456</password>
+        <code>2017</code>
+    </HSPT_login>
+
+
+    <TWPT_login>
+        <twusername2>tw_admin</twusername2>
+        <twpassword2>qweasdzxc</twpassword2>
+        <twcode2>2017</twcode2>
+    </TWPT_login>
+
+
+    <tproduct>
+        <pro_name>自动化添加套餐10</pro_name>
+        <price>10000</price>
+    </tproduct>
+
+
+    <product>
+        <pro_name>自动化添加个检套餐1</pro_name>
+        <price1>5000</price1>
+        <price2>4000</price2>
+    </product>
+</info>
+
